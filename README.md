@@ -30,5 +30,5 @@ src/
 
 ## 👤 Author
 
-**Muhammad Ammar**  
-github.com/m2ammar
+**Muhammad Ammar Saleem** – [@m2ammar](https://github.com/m2ammar)  
+BSCS Data Science Student
